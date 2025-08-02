@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nihaal Shindhe</h1>
+<h3 align="center">Hi 👋, I'm Nihaal Shindhe</h3>
 <h3 align="center">Developer • AI Enthusiast • Automation Architect</h3>
 
 ---
@@ -20,12 +20,6 @@
 🛠️ Tech I Use  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,n8n,python,tensorflow,tailwind,aws,docker,kubernetes" />
-</p>
-
-📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihaalshindhe&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihaalshindhe&theme=tokyonight" width="48%" />
 </p>
 
 ---
